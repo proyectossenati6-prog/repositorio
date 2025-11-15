@@ -13,5 +13,5 @@ jobs:
       - name: detect secrets
         run: 
          pip install detect-secrets
-         detect-secrets scan
+         detect-secrets scan       
      
