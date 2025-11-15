@@ -12,6 +12,6 @@ jobs:
 
       - name: Run a one-line script
         run: 
-         pip instalar detect-secrets
+         pip install detect-secrets
     
      
